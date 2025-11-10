@@ -5,7 +5,7 @@ import models.Persona;
 
 public class App {
     public static void main(String[] args) {
-
+        System.out.println();
         MetodosBusqueda mBusqueda = new MetodosBusqueda();
 
         ShowConsole showConsole = new ShowConsole();
